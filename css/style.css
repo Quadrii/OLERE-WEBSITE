@@ -449,6 +449,9 @@ h4.modal-title{
 .about-jst-right p:nth-child(1) {
     padding-bottom: 13px;
 }
+.about-jst-right {
+    margin-right: 12px;
+}
 .aboutright h4 {
     font-size: 38px;
     letter-spacing: 2px;
